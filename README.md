@@ -1,7 +1,7 @@
 # Olá, me chamo Thiago, sou programador front-end e futuro desenvolvedor Flutter!
 
 - Trabalho com Front-end 🧑🏻‍💻
-- Estou estudando JavaScript 🧙🏻‍♂️
+- Estou estudando Flutter 🧙🏻‍♂️
 - Pronomes: ele/dele 😊
 
 <div style="display: inline_block"><br>
