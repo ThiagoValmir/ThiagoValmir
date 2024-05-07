@@ -1,4 +1,4 @@
-# Hi there! I'm Thiago, a mobile developer specializing in Flutter.!
+# Hi there! I'm Thiago, a mobile developer specializing in Flutter!
 
  - With a background in front-end development—CSS, JavaScript, HTML, and React.
  - I'm now diving into Flutter to craft captivating mobile experiences.
