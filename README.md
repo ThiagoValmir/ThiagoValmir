@@ -5,7 +5,8 @@
  - Let's connect and build amazing apps together!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png">
+  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://www.fluttericon.com/logo_dart_192px.svg">
+   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
