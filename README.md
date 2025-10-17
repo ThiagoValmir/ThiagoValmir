@@ -57,15 +57,6 @@ Atualmente, estou em busca de **novas oportunidades profissionais** que me permi
 
 ---
 
-## 📂 Experiência Profissional
-
-| Empresa | Cargo | Período | Local |
-| :--- | :--- | :--- | :--- |
-| **iFlorestal** | Desenvolvedor Flutter | nov/2023 - abr/2024 | Biguaçu, SC |
-| **Compass UOL** | Programa de Bolsa - Back-end Journey (Spring Boot / AWS) | jun/2023 - nov/2023 | Florianópolis, SC |
-
----
-
 ## 🎓 Formação Acadêmica
 
 * **Bacharelado em Sistemas de Informação** - Universidade do Sul de Santa Catarina (Unisul).  
@@ -82,19 +73,10 @@ Atualmente, estou em busca de **novas oportunidades profissionais** que me permi
 
 ---
 
-## 🌍 Idiomas
-
-* **Português:** Nativo  
-* **Inglês:** Fluente (C2)
-
----
-
 ## 📫 Contatos
 
 * **Email:** thiagovalmircardoso@gmail.com  
 * **LinkedIn:** [https://www.linkedin.com/in/thiago-valmir-cardoso/](https://www.linkedin.com/in/thiago-valmir-cardoso/)  
-* **GitHub:** [https://github.com/ThiagoValmir](https://github.com/ThiagoValmir)  
-* **Telefone:** +55 (48) 99964-3338
 
 ---
 
@@ -170,16 +152,7 @@ I’m currently looking for **new professional opportunities** to apply my knowl
 
 ---
 
-## 🌍 Languages
-
-* **Portuguese:** Native  
-* **English:** Fluent (C2)
-
----
-
 ## 📫 Contact
 
 * **Email:** thiagovalmircardoso@gmail.com  
 * **LinkedIn:** [https://www.linkedin.com/in/thiago-valmir-cardoso/](https://www.linkedin.com/in/thiago-valmir-cardoso/)  
-* **GitHub:** [https://github.com/ThiagoValmir](https://github.com/ThiagoValmir)  
-* **Phone:** +55 (48) 99964-3338
