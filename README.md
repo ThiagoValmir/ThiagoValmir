@@ -73,6 +73,19 @@ Atualmente, estou em busca de **novas oportunidades profissionais** que me permi
 
 ---
 
+## 🌟 Projetos em Destaque
+
+Aqui estão alguns dos meus projetos **concluídos** em Flutter, que refletem meu aprendizado e experiência prática:  
+
+| Projeto | Descrição | Linguagem |
+|---------|-----------|-----------|
+| [flutter-onboarding-screen](https://github.com/ThiagoValmir/flutter-onboarding-screen) | Caso de estudo desenvolvido em Flutter para explorar a implementação de telas de introdução (onboarding). | Dart |
+| [flutter-flappy-bird-with-flame](https://github.com/ThiagoValmir/flutter-flappy-bird-with-flame) | Projeto de estudo com o Flame Engine, explorando recursos para criação de jogos 2D em Flutter. Recriação do Flappy Bird. | Dart |
+| [flutter-instagram-ui](https://github.com/ThiagoValmir/flutter-instagram-ui) | Clone da antiga interface do Instagram feito com Flutter. Foco em layout, widgets e boas práticas de UI. | Dart |
+| [flutter-tiktok-ui](https://github.com/ThiagoValmir/flutter-tiktok-ui) | Clone da antiga interface do TikTok feito com Flutter. Foco em layout, widgets e boas práticas de UI. | Dart |
+
+---
+
 ## 📫 Contatos
 
 * **Email:** thiagovalmircardoso@gmail.com  
@@ -149,6 +162,20 @@ I’m currently looking for **new professional opportunities** to apply my knowl
 
 * **Flutter Development Training: Build Your First Flutter App** — Alura (2024)  
 * **Dart Development Training: From Scratch to Projects in Dart** — Alura (2024)
+
+---
+
+<a name="english-projects"></a>
+## 🌟 Featured Projects
+
+Here are some of my **completed Flutter projects**, showcasing my learning and hands-on experience:  
+
+| Project | Description | Language |
+|---------|-----------|-----------|
+| [flutter-onboarding-screen](https://github.com/ThiagoValmir/flutter-onboarding-screen) | Study case developed in Flutter to explore onboarding screens implementation. | Dart |
+| [flutter-flappy-bird-with-flame](https://github.com/ThiagoValmir/flutter-flappy-bird-with-flame) | Study project using the Flame Engine to explore 2D game development in Flutter. Flappy Bird recreation. | Dart |
+| [flutter-instagram-ui](https://github.com/ThiagoValmir/flutter-instagram-ui) | Clone of the old Instagram UI in Flutter. Focused on layout, widgets, and UI best practices. | Dart |
+| [flutter-tiktok-ui](https://github.com/ThiagoValmir/flutter-tiktok-ui) | Clone of the old TikTok UI in Flutter. Focused on layout, widgets, and UI best practices. | Dart |
 
 ---
 
