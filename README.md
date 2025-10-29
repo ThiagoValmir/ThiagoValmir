@@ -19,7 +19,7 @@ Busco continuamente aprender novas tecnologias e metodologias que aprimorem meu 
 
 Atualmente, estou em busca de **novas oportunidades profissionais** que me permitam aplicar meus conhecimentos, aprender com novas experiências e contribuir para **projetos inovadores**.
 
-* **Portfólio:** [https://github.com/ThiagoValmir](https://github.com/ThiagoValmir)
+* **Portfólio:** [https://github.com/ThiagoValmir](https://github.com/ThiagoValmir?tab=repositories)
 
 ---
 
@@ -113,7 +113,7 @@ I’m constantly seeking to learn new technologies and methodologies to improve 
 
 I’m currently looking for **new professional opportunities** to apply my knowledge, learn from new experiences, and contribute to **innovative projects**.
 
-* **Portfolio:** [https://github.com/ThiagoValmir](https://github.com/ThiagoValmir)
+* **Portfolio:** [https://github.com/ThiagoValmir](https://github.com/ThiagoValmir?tab=repositories)
 
 ---
 
