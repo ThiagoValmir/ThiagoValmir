@@ -9,7 +9,7 @@ Santa Catarina, Brasil
 ## 💻 Sobre Mim
 
 Sou **bacharel em Sistemas de Informação pela Universidade do Sul de Santa Catarina (Unisul)** e estou direcionando minha carreira para **Qualidade de Software**.
-Acredito que entregar produtos confiáveis é essencial, e por isso tenho me aprofundado em **testes manuais, testes exploratórios, automação e boas práticas de QA**.
+Acredito que entregar produtos confiáveis é essencial e, por isso, tenho me aprofundado em **testes manuais, testes exploratórios, automação e boas práticas de QA**.
 
 Hoje, busco oportunidades onde eu possa evoluir como QA, criar testes eficientes, automatizar fluxos, garantir qualidade e agregar valor ao time e ao usuário final.
 
@@ -48,19 +48,6 @@ Hoje, busco oportunidades onde eu possa evoluir como QA, criar testes eficientes
 * Agile
 * Scrum
 * Kanban
-
----
-
-## 🌟 Soft Skills
-
-* Comunicação clara
-* Pensamento crítico
-* Curiosidade investigativa
-* Atenção aos detalhes
-* Organização
-* Colaboração em equipe
-* Aprendizado contínuo
-* Adaptabilidade
 
 ---
 
@@ -135,19 +122,6 @@ I am looking for opportunities where I can grow as a QA professional, create eff
 * Agile
 * Scrum
 * Kanban
-
----
-
-## 🌟 Soft Skills
-
-* Clear communication
-* Critical thinking
-* Investigative mindset
-* Attention to detail
-* Organization
-* Teamwork
-* Continuous learning
-* Adaptability
 
 ---
 
