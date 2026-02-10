@@ -50,6 +50,14 @@ Sou **bacharel em Sistemas de Informação pela Universidade do Sul de Santa Cat
 
 ---
 
+## 📂 Projetos
+
+| Projeto | Descrição | Progresso |
+| :--- | :--- | :--- |
+| **[cypress-do-zero-a-nuvem](https://github.com/ThiagoValmir/cypress-do-zero-a-nuvem)** | Repositório do curso "Cypress, do Zero à Nuvem" da Escola Talking About Testing. | ✅ Finalizado |
+
+---
+
 ## 🔗 Portfólio & Contatos
 
 * **LinkedIn:** [https://www.linkedin.com/in/thiago-valmir-cardoso/](https://www.linkedin.com/in/thiago-valmir-cardoso/)
@@ -62,6 +70,8 @@ Sou **bacharel em Sistemas de Informação pela Universidade do Sul de Santa Cat
 ## 💻 About Me
 
 I hold a Bachelor’s degree in Information Systems from Unisul (Universidade do Sul de Santa Catarina). I work with manual and automated testing, using tools such as Cypress and Postman. I have experience in agile environments, collaborating closely with developers and stakeholders, always valuing clear communication and teamwork. I also have practical knowledge of system integrations and continuous delivery flows, which helps me better understand impacts and dependencies during testing activities. I believe quality is essential to the success of any digital product, and I continually improve my skills to deliver high-quality, innovative work.
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -80,10 +90,14 @@ I hold a Bachelor’s degree in Information Systems from Unisul (Universidade do
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
+
 ## 📚 Education
 
 Bachelor’s Degree in Information Systems — Unisul
 (Aug/2021 — Aug/2025)
+
+---
 
 ## 📝 Certifications
 
@@ -91,9 +105,21 @@ Bachelor’s Degree in Information Systems — Unisul
 * Software Testing (Gustavo Farias, completed 2025) - https://www.udemy.com/certificate/UC-60449a48-15ec-490d-8f8f-e78264e0de3c/
 * HTML, CSS, and JavaScript – Alura (2023) - https://cursos.alura.com.br/degree/certificate/e578de6f-102b-4e04-85b7-ed871652832f
 
+---
+
 ## 🌎 Languages
 
 English: Advanced / C1
+
+---
+
+📂 Featured Projects
+
+| Project | Description | Progress |
+| :--- | :--- | :--- |
+| **[cypress-do-zero-a-nuvem](https://github.com/ThiagoValmir/cypress-do-zero-a-nuvem)** | Repository for the course "Cypress, from Zero to the Cloud" by Talking About Testing School. | ✅ Completed |
+
+---
 
 ## 🔗 Portfolio & Contact
 
