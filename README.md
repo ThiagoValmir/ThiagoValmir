@@ -1,5 +1,4 @@
-# Olá, eu sou o Thiago Valmir Cardoso! 👋 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=👋+Olá,+eu+sou+Thiago!;QA+Engineer+em+evolução;Apaixonado+por+Qualidade+de+Software)](https://git.io/typing-svg)
 ### **QA/Analista de Testes | Testes Manuais & Automatizados** Santa Catarina, Brasil
 
 ## 🇧🇷 Português | [🇬🇧 English](#english-version)
