@@ -49,11 +49,16 @@ Sou **bacharel em Sistemas de Informação pela Universidade do Sul de Santa Cat
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos em Destaque
 
-| Projeto | Descrição | Progresso |
-| :--- | :--- | :--- |
-| **[cypress-do-zero-a-nuvem](https://github.com/ThiagoValmir/cypress-do-zero-a-nuvem)** | Repositório do curso "Cypress, do Zero à Nuvem" da Escola Talking About Testing. | ✅ Finalizado |
+| Projeto                                                                                    | Descrição                                                                                                                                                                   | Status          |
+| :----------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------- |
+| **[cypress-do-zero-a-nuvem](https://github.com/ThiagoValmir/cypress-do-zero-a-nuvem)**     | Repositório do curso "Cypress, do Zero à Nuvem" da Escola Talking About Testing, abordando automação de testes web, boas práticas com Cypress e integração contínua.        | ✅ Finalizado    |
+| **[qa-playground](https://github.com/ThiagoValmir/qa-playground)**                         | Projeto de testes manuais e automatizados para os módulos de Login e Cadastro de Usuários, incluindo documentação de testes, relatórios de bugs e CI/CD com GitHub Actions. | 🚧 Em andamento |
+| **[api-testing-postman](https://github.com/ThiagoValmir/api-testing-postman)**             | Projeto de testes de API utilizando Postman, cobrindo coleções, ambientes, validações automatizadas, testes orientados por dados e documentação de APIs.                    | 📅 Planejado    |
+| **[performance-testing-k6](https://github.com/ThiagoValmir/performance-testing-k6)**       | Projeto de testes de performance e carga utilizando K6, incluindo testes de estresse, análise de escalabilidade e relatórios de métricas de desempenho.                     | 📅 Planejado    |
+| **[qa-web-automation-cypress](https://github.com/ThiagoValmir/qa-web-automation-cypress)** | Projeto de automação de testes web utilizando Cypress para testes end-to-end, incluindo validações de interface, fluxos de usuário, assertions, fixtures e relatórios.      | 📅 Planejado    |
+| **[sql-for-testers](https://github.com/ThiagoValmir/sql-for-testers)**                     | Repositório de estudos em SQL para profissionais de QA, contendo consultas, joins, agregações, cenários de validação de dados e exercícios relacionados a testes.           | 📅 Planejado    |
 
 ---
 
@@ -112,11 +117,16 @@ English: Advanced / C1
 
 ---
 
-📂 Featured Projects
+## 📂 Featured Projects
 
-| Project | Description | Progress |
-| :--- | :--- | :--- |
-| **[cypress-do-zero-a-nuvem](https://github.com/ThiagoValmir/cypress-do-zero-a-nuvem)** | Repository for the course "Cypress, from Zero to the Cloud" by Talking About Testing School. | ✅ Completed |
+| Project                                                                                    | Description                                                                                                                                                                    | Status         |
+| :----------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------- |
+| **[cypress-do-zero-a-nuvem](https://github.com/ThiagoValmir/cypress-do-zero-a-nuvem)**     | Repository for the "Cypress, from Zero to the Cloud" course by Talking About Testing School, covering web test automation, Cypress best practices, and continuous integration. | ✅ Completed    |
+| **[qa-playground](https://github.com/ThiagoValmir/qa-playground)**                         | Manual and automated testing project for Login and User Registration modules, including test documentation, bug reporting, and CI/CD with GitHub Actions.                      | 🚧 In Progress |
+| **[api-testing-postman](https://github.com/ThiagoValmir/api-testing-postman)**             | API testing project using Postman, covering collections, environments, automated validations, data-driven testing, and API documentation.                                      | 📅 Planned     |
+| **[performance-testing-k6](https://github.com/ThiagoValmir/performance-testing-k6)**       | Performance and load testing project using K6, including stress testing, scalability analysis, and performance metrics reporting.                                              | 📅 Planned     |
+| **[qa-web-automation-cypress](https://github.com/ThiagoValmir/qa-web-automation-cypress)** | Web test automation project using Cypress for end-to-end testing, including UI validation, user flows, assertions, fixtures, and reporting.                                    | 📅 Planned     |
+| **[sql-for-testers](https://github.com/ThiagoValmir/sql-for-testers)**                     | SQL practice repository for QA Engineers, containing database queries, joins, aggregations, data validation scenarios, and testing-related exercises.                          | 📅 Planned     |
 
 ---
 
